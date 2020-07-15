@@ -7,8 +7,14 @@ public class Test1 {
 		
 		
 		System.out.println("I tester 2 on the UiBranch");
+//<<<<<<< HEAD
 		System.out.println("I am tester 1 on On master branch");
 
+//=======
+        System.out.println("I am tester2 on Ui branch");
+//>>>>>>> UiBranch
 	}
+
+	
 
 }
