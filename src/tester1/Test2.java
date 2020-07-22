@@ -15,8 +15,11 @@ public class Test2 {
 		
 		// pull test2.txt changes from the remote repo(github)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	}
 =======
+=======
+>>>>>>> Stashed changes
 		
 		// we neeed to have a clean working three in order to pull,push ,merge
 		
@@ -28,6 +31,9 @@ public class Test2 {
 			
 		}
 		
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 }
