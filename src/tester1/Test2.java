@@ -6,6 +6,10 @@ public class Test2 {
 		
 		
 		System.out.println("I am test1 one workin on master branch");
+		
+		//pull the changes from the remote repository
+		
+		// pull test2.txt changes from the remote repo(github)
 	}
 
 }
