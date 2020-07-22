@@ -14,27 +14,21 @@ public class Test2 {
 		//pull the changes from the remote repository
 		
 		// pull test2.txt changes from the remote repo(github)
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-	}
-=======
-=======
->>>>>>> Stashed changes
 		
 		// we neeed to have a clean working three in order to pull,push ,merge
 		
 		//System.out.println("OOO"+);
 		
 		int u = 0;
-		while(u<10 && u>2) {
+		while(u<10) {
+			
 			System.out.println(randomIdentifier());
+			if(u=0) {
+				breakl
+			}
 			
 		}
 		
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 }
 	
